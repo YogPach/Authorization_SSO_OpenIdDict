@@ -1,0 +1,42 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "ResourceService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/resources": {
+      "get": {
+        "tags": [
+          "Resource"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "oauth2": {
+        "type": "oauth2",
+        "flows": {
+          "authorizationCode": {
+            "authorizationUrl": "https://localhost:44397/connect/authorize",
+            "tokenUrl": "https://localhost:44397/connect/token",
+            "scopes": {
+              "api1": "resource server scope"
+            }
+          }
+        }
+      }
+    }
+  },
+  "security": [
+    {
+      "oauth2": [ ]
+    }
+  ]
+}

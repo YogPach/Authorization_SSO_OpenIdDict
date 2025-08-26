@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ResourceService.Controllers.ResourceController",
+    "Method": "GetSecretResources",
+    "RelativePath": "resources",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

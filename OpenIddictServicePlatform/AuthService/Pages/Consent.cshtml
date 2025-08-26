@@ -1,0 +1,16 @@
+﻿@page
+@using AuthService.Models
+@model AuthService.Pages.ConsentModel
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<h2>Consent</h2>
+<p>Redirect url: @Model.ReturnUrl</p>
+
+<form method="post">
+    <button type="submit" name="grant" value="@Consts.GrantAccessValue">Allow</button>
+    <button type="submit" name="grant" value="@Consts.DenyAccessValue">Deny</button>
+</form>

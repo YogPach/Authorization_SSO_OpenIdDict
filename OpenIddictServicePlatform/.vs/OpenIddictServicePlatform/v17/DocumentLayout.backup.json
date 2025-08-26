@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\services\\clientsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\clientsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\models\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\models\\consentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\consentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\services\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\resourceservice\\resourceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|solutionrelative:resourceservice\\resourceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\services\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826115252_AddUserTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthService\\Migrations\\20250826115252_AddUserTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\resourceservice\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|solutionrelative:resourceservice\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\resourceservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|solutionrelative:resourceservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\resourceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|solutionrelative:resourceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\pages\\consent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\pages\\consent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\pages\\consent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\pages\\consent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\pages\\authenticate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\pages\\authenticate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\pages\\authenticate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\pages\\authenticate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\resourceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04D1E2D7-A90D-4F7C-94FC-F2D19D4DC27D}|ResourceService\\ResourceService.csproj|solutionrelative:resourceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\migrations\\20250820082030_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\migrations\\20250820082030_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|c:\\users\\admin\\source\\repos\\openiddictserviceplatform\\authservice\\migrations\\20250826100245_addtblclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC1B81-6675-43E0-845F-ED830F243DC1}|AuthService\\AuthService.csproj|solutionrelative:authservice\\migrations\\20250826100245_addtblclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\UsersSeeder.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\UsersSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\UsersSeeder.cs",
+              "RelativeToolTip": "AuthService\\Services\\UsersSeeder.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:55:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250826115252_AddUserTables.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826115252_AddUserTables.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\20250826115252_AddUserTables.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826115252_AddUserTables.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\20250826115252_AddUserTables.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:52:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\User.cs",
+              "RelativeToolTip": "AuthService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:49:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250826104735_AddRedirectUrisToClients.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\20250826104735_AddRedirectUrisToClients.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:47:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250826100245_addtblClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826100245_addtblClient.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\20250826100245_addtblClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250826100245_addtblClient.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\20250826100245_addtblClient.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:02:45.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\Client.cs",
+              "RelativeToolTip": "AuthService\\Models\\Client.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:44:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\ConsentRequest.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\ConsentRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\ConsentRequest.cs",
+              "RelativeToolTip": "AuthService\\Models\\ConsentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:00:25.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "AuthService\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:00:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:59:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAswLMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:16:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:58:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Program.cs",
+              "RelativeDocumentMoniker": "ResourceService\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Program.cs",
+              "RelativeToolTip": "ResourceService\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwE4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:48:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\ClientsSeeder.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\ClientsSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\ClientsSeeder.cs",
+              "RelativeToolTip": "AuthService\\Services\\ClientsSeeder.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:57:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T13:26:38.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Authenticate.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Authenticate.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthService\\Pages\\Authenticate.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Authenticate.cshtml.cs",
+              "RelativeToolTip": "AuthService\\Pages\\Authenticate.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:47:33.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Consent.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Consent.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthService\\Pages\\Consent.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Consent.cshtml.cs",
+              "RelativeToolTip": "AuthService\\Pages\\Consent.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:17:42.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Authenticate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Authenticate.cshtml",
+              "RelativeDocumentMoniker": "AuthService\\Pages\\Authenticate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Authenticate.cshtml",
+              "RelativeToolTip": "AuthService\\Pages\\Authenticate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T10:45:13.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "AuthService\\Services\\AuthorizationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:52:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Consent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Consent.cshtml",
+              "RelativeDocumentMoniker": "AuthService\\Pages\\Consent.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Pages\\Consent.cshtml",
+              "RelativeToolTip": "AuthService\\Pages\\Consent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:09:39.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "ResourceService\\Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "ResourceService\\Controllers\\ResourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:31:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ResourceService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ResourceService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T12:44:30.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T06:56:59.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResourceService.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\ResourceService.csproj",
+              "RelativeDocumentMoniker": "ResourceService\\ResourceService.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\ResourceService.csproj",
+              "RelativeToolTip": "ResourceService\\ResourceService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T12:46:52.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\appsettings.json",
+              "RelativeDocumentMoniker": "ResourceService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\ResourceService\\appsettings.json",
+              "RelativeToolTip": "ResourceService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T13:26:53.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consts.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\Consts.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\Consts.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Models\\Consts.cs",
+              "RelativeToolTip": "AuthService\\Models\\Consts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:59:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T07:52:38.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthService\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "AuthService\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:02:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\Worker.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\Worker.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Services\\Worker.cs",
+              "RelativeToolTip": "AuthService\\Services\\Worker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:17:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:20:22.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAqwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-20T11:49:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\appsettings.Development.json",
+              "RelativeToolTip": "AuthService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T08:41:09.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthService.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\AuthService.http",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\AuthService.http",
+              "RelativeToolTip": "AuthService\\AuthService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-20T07:58:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250820082030_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250820082030_init.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\20250820082030_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OpenIddictServicePlatform\\AuthService\\Migrations\\20250820082030_init.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\20250820082030_init.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:20:31.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
